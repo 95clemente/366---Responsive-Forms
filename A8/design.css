@@ -1,0 +1,49 @@
+body
+{
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	background-color:#f5f6df; 
+}
+h2
+{
+	text-align: center;
+	font-variant: small-caps;
+	color:#00552a;
+	font-weight: bold;
+}
+input[type="button"] 
+{
+	margin-top: 1em;
+	padding: .5em;
+	color: #ffffff;
+	font-size: 85%;
+	background-color: #00552a;
+	border: 1;
+	font-variant: small-caps;
+}
+footer
+{
+	text-align: right;
+}
+legend
+{
+	font-variant: small-caps;
+	font-weight: bold;
+}
+legend
+{
+	color: #00552a;
+}
+button
+{
+	margin-top: 1em;
+	padding: .5em;
+	color: #ffffff;
+	font-size: 85%;
+	background-color: #00552a;
+	border: 1;
+	font-variant: small-caps;
+}
+	

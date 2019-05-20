@@ -1,0 +1,65 @@
+body
+{
+	margin-left: 1.25em;
+	margin-right: 1.25em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	background-color: #f5f6df;
+}
+h2
+{
+	text-align: center;
+	font-variant: small-caps;
+	color:#1f3a93;
+	font-weight: bold;
+}
+input[type="button"] 
+{
+	margin-top: 1em;
+	padding: .5em;
+	color:#ffffff;
+	font-size: 85%;
+	background-color: #1f3a93; 
+	border: 1;
+	font-variant: small-caps;
+}
+input[type="text"]
+{
+	padding:.5em;
+	margin-top: .5em;
+	border .5em; 
+	border-color: grey;
+}
+input[type="number"]
+{
+	padding: .5em;
+	margin-top: .5em;
+	border .5em;
+	border-color:grey;
+}
+input[type="password"]
+{
+	padding:.5em;
+	margin-top: .5em;
+	border .5em; 
+	border-color: grey;
+}
+legend
+{
+	color:#1f3a93;
+}
+button
+{
+margin-top: 1em;
+	padding: .5em;
+	color:#ffffff;
+	font-size: 85%;
+	background-color: #1f3a93; 
+	border: 1;
+	font-variant: small-caps;
+}
+footer
+{
+	text-align: right;
+	color:#1f3a93;
+}

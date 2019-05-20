@@ -1,0 +1,61 @@
+body
+{
+ margin-top: .4em;
+ margin-bottom: .4em;
+ margin-right: .2em;
+ margin-left: .2em;
+ font-size: 12px;
+ background-color:#ffffff;
+}
+h2
+{
+	text-align: center;
+	font-variant: small-caps;
+	color:#114c2a;
+	font-size: 3.2vw;
+}
+input[type="button"] 
+{
+	margin-top: 1em;
+	color:#ffffff;
+	font-size: 95%;
+	background-color: #003636; 
+	border: 1;
+	font-variant: small-caps;
+	width: 205px;
+	font-size:13px;
+
+}
+footer
+{
+	text-align: center;
+	color: #003636;
+}
+input[type="text"]
+{
+	padding:.5em;
+	margin-top: .5em;
+	border .5em; 
+	border-color: black;
+	width: 180px;
+}
+input[type="number"]
+{
+	padding: .5em;
+	margin-top: .5em;
+	border .5em;
+	border-color: black;
+	width: 180px;
+}
+input[type="password"]
+{
+	padding:.5em;
+	margin-top: .5em;
+	border .5em; 
+	border-color: black;
+	width: 180px;
+}
+legend
+{
+	font-size: 12px;
+}

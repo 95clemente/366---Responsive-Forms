@@ -1,0 +1,51 @@
+body
+{
+	background-color: #AAD2DF;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+h2
+{
+	text-align: center;
+	font-variant: small-caps;
+	color:#00552a;
+	font-size: 3.2vw;
+}
+input[type="button"] 
+{
+	margin-top: 1em;
+	padding: .5em;
+	color:#ffffff;
+	font-size: 85%;
+	background-color: #00552a; 
+	border: 1;
+	font-variant: small-caps;
+}
+input[type="text"]
+{
+	padding:.5em;
+	margin-top: .5em;
+	border .5em; 
+	border-color: black;
+}
+input[type="number"]
+{
+	padding: .5em;
+	margin-top: .5em;
+	border .5em;
+	border-color:black;
+}
+input[type="password"]
+{
+	padding:.5em;
+	margin-top: .5em;
+	border .5em; 
+	border-color: black;
+}
+footer
+{
+	text-align: center;
+	color: #00552a; 
+}
